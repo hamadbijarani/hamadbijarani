@@ -39,8 +39,8 @@
 <p><a href="https://www.buymeacoffee.com/hamadbijararani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hamadbijararani" /></a></p><br><br>
 
 <div class='parent' style="text-align:center;width: 300px;margin: 0 auto;border-style: dotted;">
-<div<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&locale=en" alt="hamadbijarani" />
+<div<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&locale=en" alt="hamadbijarani" /><br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbijarani&" alt="hamadbijarani" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbijarani&" alt="hamadbijarani" /></p>
 </div>
   
