@@ -21,14 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hamadbijarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hamadbijarani" height="30" width="40" /></a>
 <a href="https://twitter.com/hamadbijarani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamadbijarani01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamadullah-bijarani-738077239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamadullah-bijarani-738077239/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17999282/hamadullah-bijarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17999282/hamadullah-bijarani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@techwithhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techwithhamad" height="30" width="40" /></a>
 <a href="https://kaggle.com/hamadbij017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamadbij017" height="30" width="40" /></a>
 <a href="https://fb.com/hamad.bijarani.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamad.bijarani.12" height="30" width="40" /></a>
 <a href="https://medium.com/@hamadullahbijarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamadullahbijarani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techwithhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techwithhamad" height="30" width="40" /></a>
+<a href="https://dev.to/hamadbijarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hamadbijarani" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hamadbijarani012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hamadbijarani012" height="30" width="40" /></a>
 </p>
 
@@ -38,6 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hamadbijararani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hamadbijararani" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&locale=en" alt="hamadbijarani" /></p>
+<div class='parent'>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&locale=en" alt="hamadbijarani" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbijarani&" alt="hamadbijarani" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbijarani&" alt="hamadbijarani" /></p>
+</div>
+  
