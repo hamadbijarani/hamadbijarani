@@ -15,7 +15,7 @@
 - 💬 Ask me about **Python, Sklearn, & other ML frameworks in python.**
 - ⚡ Fun fact **"It’s all 0’s and 1’s. Like it always has been since beginning."**
 
-## Blog posts
+## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
