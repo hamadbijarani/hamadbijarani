@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on **different ML and AI projects.**
 - 🌱 I’m currently learning **Tensorflow, PyTorch, SKlearn, Jax, & Transformers.**
 - 👯 I will be more than happy to collaborate on **ML & AI.**
-- 👨‍💻 All of my projects are available at [github.com/hamadbijarani](www.github.com/hamadbijarani).
-- 📝 I regularly write articles on [medium.com/hamadbijarni](www.medium.com/hamadbijarni).
-- 💬 Ask me about **Python, Julia, & ML frameworks in python.**
+- 👨‍💻 All of my projects are available on this Github profile.
+- 📝 I regularly write articles on [medium.com/hamadbijarni](https://www.medium.com/hamadbijarni).
+- 💬 Ask me about **Python, Sklearn, & other ML frameworks in python.**
 - ⚡ Fun fact **"It’s all 0’s and 1’s. Like it always has been since beginning."**
 
 ## Blog posts
