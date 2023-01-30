@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m @arifrind
+- 👋 Hi, I’m @hamadbijarani
 - 🔭 I’m currently working on ML, & AI projects for developing my skills.
 - 🌱 I’m currently learning about Data Science, Machine Learning, and Artificial Intelligence.
 - 👯 I will be more than happy to collaborate on small ML & AI projects.
