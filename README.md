@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/hamadbijarani01" target="blank"><img src="https://img.shields.io/twitter/follow/hamadbijarani01?logo=twitter&style=for-the-badge" alt="hamadbijarani01" /></a> </p>
 
-- 🔭 I’m currently working on **different ML and AI projects.**
-- 🌱 I’m currently learning **Tensorflow, PyTorch, SKlearn, Jax, & Transformers.**
+- 🔭 I’m currently working on **learning ML and AI.**
+- 🌱 I’m currently learning **Tensorflow, PyTorch, SKlearn, Jax, & other AI related technologies.**
 - 👯 I will be more than happy to collaborate on **ML & AI.**
 - 👨‍💻 All of my projects are available on this Github profile.
-- 📝 I regularly write articles on [my medium blog](https://www.medium.com/@hamadullahbijarani).
-- 💬 Ask me about **Python, Sklearn, & other ML frameworks in python.**
+- 📝 [Medium](https://www.medium.com/@hamadullahbijarani) is choice of my blog.
+- 💬 Ask me about **science and computer stuff.**
 - ⚡ Fun fact **"It’s all 0’s and 1’s. Like it always has been since beginning."**
 
 ## Latest Blogs
