@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamadullah Bijarani</h1>
-<h3 align="center">A passionate ML & AI programmer from Pakistan</h3>
+<h3 align="center">A passionate ML & AI programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadbijarani&label=Profile%20views&color=0e75b6&style=flat" alt="hamadbijarani" /> </p>
 
@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Tensorflow, PyTorch, SKlearn, Jax, & other AI related technologies.**
 - 👯 I will be more than happy to collaborate on **ML & AI.**
 - 👨‍💻 All of my projects are available on this Github profile.
-- 📝 [Medium](https://www.medium.com/@hamadullahbijarani) is choice of my blog.
 - 💬 Ask me about **science and computer stuff.**
 - ⚡ Fun fact **"It’s all 0’s and 1’s. Like it always has been since beginning."**
 
