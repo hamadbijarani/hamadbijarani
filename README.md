@@ -1,1 +1,3 @@
-Collaborate for AI (particularly unsupervised, self supervised, and reinforcement learning)
+Interested in AI (particularly NLP, novel architectures, and Frontier Research)
+
+Available for internships, and collaborations
