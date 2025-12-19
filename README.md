@@ -145,11 +145,11 @@ Delivers robust sentiment classification with a focus on sequence modeling quali
 </p>
 
 <p align="center">
-  <a href="mailto:hamadbijarani@gmail.com">
+  <a href="mailto:hamadullahkhanbijarani@gmail.com">
     <img src="https://img.shields.io/badge/Say%20Hi!-Email-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hamadbijarani" target="_blank">
+  <a href="https://www.linkedin.com/in/hamadullah-bijarani" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
