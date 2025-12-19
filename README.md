@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/hamadullah-bijarani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/hamadbijarani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://x.com/hamadbijarani01">
+    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hamadbijarani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
