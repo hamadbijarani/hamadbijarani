@@ -1,159 +1,159 @@
-<div align="center">
-  <h1 align="center">Hey, I'm Hamadullah! 👋</h1>
-  <strong>🚀 Aspiring ML Engineer and AI Researcher | Turning math, code, and prompts into real systems</strong>
-</div>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hamadullah%20Bijarani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20Science%20%C2%B7%20Efficient%20AI%20%C2%B7%20Automation%20Engineer&descSize=16&descAlignY=60" alt="Hamadullah Bijarani banner" />
+</p>
 
 <p align="center">
-  <a href="mailto:hamadullahkhanbijarani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=7C6CF0&center=true&vCenter=true&width=640&lines=Exploring+AI+for+science;Making+language+models+efficient+under+limited+compute;Turning+research+into+tools+that+actually+run" alt="Typing animation" />
   </a>
-  <a href="https://www.linkedin.com/in/hamadullah-bijarani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/hamadbijarani01">
-    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hamadbijarani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://hamadbijarani.github.io"><img src="https://img.shields.io/badge/Portfolio-7C6CF0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=tfdjEF0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0007-9151-6633"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://huggingface.co/hamadbijarani012"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://www.linkedin.com/in/hamadullah-bijarani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamadullahkhanbijarani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/hamadbijarani01"><img src="https://img.shields.io/badge/X-0f1419?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
-<h2 align="center">🌐 About Me</h2> 
+## 👋 About me
 
-I’m an undergraduate student at **Sukkur IBA University**, obsessed with the mathematical heart of AI and how to ship it as useful software. I build tools and experiments that translate probability, optimization, and transformer internals into reproducible systems—think research notes that actually run.
+I'm a Computer Systems Engineering undergraduate at **Sukkur IBA University** (graduating May 2027). I'm an AI researcher focused on AI for science, from physics-informed learning and surrogate modeling to foundation models for scientific reasoning. I also work on efficient AI, including model compression, quantization and parameter-efficient adaptation, and I like turning research into tools that actually run.
 
-In short: I study the math, build the models, and automate the boring parts so the interesting parts are repeatable.
+I also build **workflow automations** with n8n and Make.com, including AI agents that talk to customers over WhatsApp and keep their data in Google Sheets.
 
----
+### At a glance
 
-<h2 align="center">🌟 My Projects</h2>
-<p align="center">
-  A curated showcase of hands‑on work — with expandable details for quick scanning or deep dives.
-</p>
+| | |
+|---|---|
+| 🎓 **Education** | B.E. Computer Systems Engineering, Sukkur IBA University (CGPA 3.48 / 4.00) |
+| 🏅 **Honors** | Sukkur IBA STHP Merit Scholarship · PSF Science Talent Farming Scheme (STFS) National Scholarship |
+| 🧩 **Applied work** | 50+ AI and automation projects delivered for clients (RAG, LLM apps, tool-calling agents) |
+| 💼 **Experience** | Data Analyst Intern at KPMG Australia (remote, 2025) · Team Lead, PEC Generative AI Hackathon |
+| 🤝 **Status** | Open to research collaboration |
 
-<details open>
-  <summary><strong>🧑‍🏫 <a href="https://github.com/hamadbijarani/AI-Study-Coach" target="_blank">AI Study Coach</a></strong></summary>
+## 🔬 Research interests
 
-**Repo:** [`AI-Study-Coach`](https://github.com/hamadbijarani/AI-Study-Coach)  
-An AI-powered study assistant that helps generate structured learning plans and study workflows tailored to your goals. Built fully in Python for simplicity and reproducibility.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌍 AI for Science</h3>
+      <p>Machine learning that supports discovery and models complex physical systems.</p>
+      <sub>Scientific ML · physics-informed learning · surrogate modeling</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧬 Foundation Models for Science</h3>
+      <p>Pretrained models that reason over heterogeneous scientific data.</p>
+      <sub>Multimodal learning · scientific reasoning</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Efficient AI</h3>
+      <p>Compact models and efficient inference that keep the representations that matter.</p>
+      <sub>Distillation · pruning · 4-bit and 8-bit quantization · LoRA/DoRA</sub>
+    </td>
+  </tr>
+</table>
 
-**Key Features:**
-- Personalized study roadmaps and milestones
-- Topic decomposition with suggested resources
-- Modular planning for consistent, trackable progress
-
-**📌 Outcome:**  
-Makes self-learning actionable by turning broad goals into clear, stepwise study plans.
-
-**Tech Used:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</details>
-
+```mermaid
+flowchart LR
+    A["Efficient AI<br/>compression, quantization, PEFT"] --> B["Foundation Models<br/>for Science"]
+    B --> C["AI for Science<br/>physics-informed, surrogate models"]
+```
 
 <details>
-  <summary><strong>📄 <a href="https://github.com/hamadbijarani/Multiple-PDF-RAG-Chatbot" target="_blank">Multiple‑PDF RAG Chatbot</a></strong></summary>
+<summary><b>🧪 A small taste of my work: simulating weight quantization</b></summary>
 
-**Repo:** [`Multiple-PDF-RAG-Chatbot`](https://github.com/hamadbijarani/Multiple-PDF-RAG-Chatbot)  
-A simple RAG‑based chatbot that lets you ask questions over multiple PDFs and get responses grounded in your documents.
+<br/>
 
-**Key Features:**
-- Ingest and query multiple PDFs
-- Chunking + embeddings + retrieval augmented generation
-- Document‑aware answers for focused Q&A
+Fewer bits means less memory but coarser steps, and a few outlier weights stretch the range so everything else gets fewer useful levels. Here is the core idea in a few lines:
 
-**📌 Outcome:**  
-Turns static PDFs into an interactive knowledge base for faster information retrieval.
+```python
+import torch
 
-**Tech Used:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+def fake_quantize(w: torch.Tensor, bits: int = 4) -> torch.Tensor:
+    """Symmetric per-tensor quantization, returned in float for error analysis."""
+    qmax = 2 ** (bits - 1) - 1
+    scale = w.abs().max() / qmax
+    return torch.clamp((w / scale).round(), -qmax - 1, qmax) * scale
+
+w = torch.randn(64)
+print(f"INT4 MSE: {((w - fake_quantize(w, 4)) ** 2).mean():.5f}")
+```
+
+You can play with an interactive version, plus a LoRA parameter and memory calculator, on my [portfolio](https://hamadbijarani.github.io).
+
 </details>
 
+## 📄 Publication
 
-<details>
-  <summary><strong>💬 <a href="https://github.com/hamadbijarani/Sentiment-Analysis-using-LSTM" target="_blank">Sentiment Analysis using LSTM</a></strong></summary>
+> **[Energy-Efficient NLP Through Tiny-Model Distillation, Pruning, and Quantized Inference](https://kjmr.ac.pk/kjmr/article/view/965)**
+> Hamadullah Bijarani · *Kashf Journal of Multidisciplinary Research (KJMR)*, 2026
+>
+> **Key finding:** on BERT and TinyBERT, a distilled student was the most energy-efficient variant, while quantization and pruning shrank model size but added GPU kernel overhead. Combining INT8 quantization with aggressive pruning raised energy use by up to 4× compared to the standard student, so smaller on paper does not always mean cheaper on hardware.
 
-**Repo:** [`Sentiment-Analysis-using-LSTM`](https://github.com/hamadbijarani/Sentiment-Analysis-using-LSTM)  
-A high‑impact sentiment analysis pipeline built with Bi‑Directional LSTM and a self‑attention mechanism.
+## 🚀 Featured projects
 
-**Key Features:**
-- Bi‑Directional LSTM encoder with self‑attention
-- End‑to‑end pipeline: preprocessing → training → evaluation
-- Standard metrics (e.g., accuracy, precision, recall, F1)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Multi-Document RAG Chatbot</h3>
+      <p>Document-grounded question answering across multiple PDFs: parsing, chunking, embeddings, vector search and generation.</p>
+      <p><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
+      <a href="https://github.com/hamadbijarani/Multiple-PDF-RAG-Chatbot">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍🏫 Adaptive AI Study Coach</h3>
+      <p>Semantic memory, conversational Q&A, quizzes and flashcards. Built as team lead at the PEC Generative AI Hackathon.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
+      <a href="https://github.com/hamadbijarani/AI-Study-Coach">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 High-Throughput Sentiment Classifier</h3>
+      <p>Sentiment classification over 100,000+ customer reviews using pretrained embeddings and a BiLSTM with self-attention.</p>
+      <p><img src="https://img.shields.io/badge/LSTM-7C6CF0?style=flat-square" alt="LSTM" /> <img src="https://img.shields.io/badge/NLP-EA4B71?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></p>
+      <a href="https://github.com/hamadbijarani/Sentiment-Analysis-using-LSTM">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ DSD8 Processor</h3>
+      <p>Semester 7 digital system design project, with a full write-up of the design details and results.</p>
+      <p><img src="https://img.shields.io/badge/HDL-1C3C3C?style=flat-square" alt="HDL" /> <img src="https://img.shields.io/badge/Digital_Design-6D00CC?style=flat-square" alt="Digital Design" /></p>
+      <a href="https://hamadbijarani.github.io/projects/sem-7/dsd8-processor.html">Read the project page →</a>
+    </td>
+  </tr>
+</table>
 
-**📌 Outcome:**  
-Delivers robust sentiment classification with a focus on sequence modeling quality.
+## 🛠 Tech stack
 
-**Tech Used:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-</details>
-
----
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FEC601?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,pandas,numpy,fastapi,docker,git,linux,jupyter,aws&theme=dark" alt="Core stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PEFT-LoRA%20%2F%20DoRA-7C6CF0?style=for-the-badge" alt="PEFT LoRA DoRA" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
 </p>
 
----
 
-
-<h2 align="center">🎓 Education</h2>
-
-**Bachelor of Engineering in CSE**  
-*Sukkur IBA University, Pakistan (Expected 2027)*
-
----
-
-
-<h2 align="center">📘 Current Learning Journey</h2> 
-
-- Deep dive into **Probability & Statistics**: Bayes' theorem, distributions, and concentration bounds.
-- Experimenting with **transformer internals**: attention maps, positional encodings (RoPE/ALiBi).
-- Building **generative agents** and tool-using models, focusing on planning and modular tool invocation.
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&theme=radical" alt="Hamad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadbijarani&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamadbijarani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadbijarani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
----
+## 🤝 Let's connect
 
-
-<h2 align="center">📫 Let's Connect</h2>
+I'm open to research collaboration, internships and automation projects. The quickest way to reach me is by [email](mailto:hamadullahkhanbijarani@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/hamadullah-bijarani/). My full CV is on my [portfolio](https://hamadbijarani.github.io).
 
 <p align="center">
-  Whether you want to talk about AI, collaborate on a project, or just say hi,<br> 
-  I'm always open to meaningful conversations and new opportunities!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 </p>
-
-<p align="center">
-  <a href="mailto:hamadullahkhanbijarani@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hi!-Email-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hamadullah-bijarani" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center"><sub>⚡ Fueled by curiosity, built with code — <strong>Hamadullah</strong></sub></p>
